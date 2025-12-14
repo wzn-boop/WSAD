@@ -1,4 +1,4 @@
-# DeepTSAD
+# WSAD
 
 
 install `DeepOD`
