@@ -6,12 +6,7 @@ install `DeepOD`
 git clone https://github.com/xuhongzuo/DeepOD
 pip install .
 ```
-
-LMY:
 spa的使用？能否修改成pa类似的api，输入是ground-truth label和分数，输出是调整后的分数
-
-
-ZXH:
 - LAT网络结构
 - 测试脚本
 - 先搜我们的参数，再跑对比
